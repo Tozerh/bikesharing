@@ -12,6 +12,8 @@ Module 14 Work
 
 ## Results
 
+The graphics below are screenshots of my Tableau Story around the NYC Citi Bike ride data. The entire story can be found as part of my Tableau notebook here: 
+[Tozer's Tableau Link for Citi Bike](https://public.tableau.com/views/BikeshareData_16439399574750/NYCABikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![CheckoutTimeByGender](https://github.com/Tozerh/bikesharing/blob/main/Checkout%20Time%20by%20Genders.PNG)
 ![CheckoutTimeforUsers](https://github.com/Tozerh/bikesharing/blob/main/Checkout%20Time%20for%20Users.PNG)
