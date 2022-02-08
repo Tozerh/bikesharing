@@ -41,24 +41,27 @@ This visualization demonstrates a couple of interesting facts about bike share u
 Here we see that, as in our first graph, males are much more likely to utilize a Citi bike for a ride. While the raw number of rides is much higher for males, we see the same distribution of rides for the male, female, and unknown genders. 
 
 5) User Trips by Gender by Weekday
-6) 
+
 ![UserTripsbyGenderByWeekday](https://github.com/Tozerh/bikesharing/blob/main/Users%20Trips%20by%20Gender%20by%20Weekday.PNG)
 
+Knowing whether or not rides were taken by subscribers or by regular customers is very helpful in planning a bike share program. This visualization helps us to see that Customer trips happen most frequently on Saturday and Sunday. For Subscribers, males are most likely to use a City bike for a trip on Thursdays.
+
+6) & 7) Most Popular Starting and Ending Locations
 
 ![MostPopularStartingLocations](https://github.com/Tozerh/bikesharing/blob/main/Most%20Popular%20Starting%20Locations.PNG)
 
 ![MostPopularEndingLocations](https://github.com/Tozerh/bikesharing/blob/main/Most%20Popular%20Ending%20Locations.PNG)
 
+These two graphics represent the starting and ending points for Citi bike share rides in NYC. Interestingly, the most popular starting and ending points are in the same areas, which is a strong indicator that the Citi bike program should focus on ensuring that these stations have extra bikes on hand to ensure a steady stream of rides. 
 
 
-
-
-![UserTripsbyGenderByWeekday](https://github.com/Tozerh/bikesharing/blob/main/Users%20Trips%20by%20Gender%20by%20Weekday.PNG)
 
 
 ## Summary
 
-Other viz: 
-Examine the relationship between speed and trip duration (do more people like going farther more slowly (poss. tourists/people out for a leisurely ride) or shortly more quickly (errands, primary or secondary transportation mode to/from work). 
+Overall, males ride Citi bikes much more often than other genders, with utilization highest for all genders from Monday through Friday. The highest period of utlization is on Thursdays after traditional work hours (5PM to 6PM). In addition to the visualizations above, I would suggest a couple more as a way to flesh out the viability of a bikeshare program elsewhere: 
 
+1) A graphic that examines the relationship between speed and trip duration to answer the question: Do more people like going farther more slowly or shorter more quickly? Answering this question would give us more insight into for which kind of trips users are choosing Citi bikes. Longer, slower rides might indicate sightseeing or tourism while shorter, faster rides could correlate to people running errands or heading to work. 
 
+2) It would also be helpful to visualize how much "wear and tear" is associated with a given starting point/ending point route by mapping starting/ending points along with duration and the frequency of maintenance required for each bike. These data would help the bike share program plan maintenance schedules and ensure maximum uptime for all of its stations and bikes. 
+Wednesdays
